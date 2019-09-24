@@ -15,7 +15,7 @@ Git and GitHub
 	• Press Enter three times in succession, the password set here is empty, and the key is created.
 	• Finally got two files: 
 	• id_rsa and id_rsa.pub
-	• Open the Admin directory and enter the .ssh folder. Open the id_rsa.pub with Notepad and copy the contents to your github or bitbucket ssh settings.     C:\Users\....\.ssh
+	• Open the Admin directory and enter the .ssh folder. Open the id_rsa.pub with Notepad and copy the contents to your github or 		ssh settings.     C:\Users\....\.ssh
 	• Open id_rsa.pub and copy all
 	• Github/ settings/ SSH and GPG keys -- New SSH key
 	• Test
@@ -31,8 +31,6 @@ Git and GitHub
 
 	• Create a folder 'Gitfirst'
 	• cd '..\Gitfirst'
-
-
 	• user name setting - git config --global user.name 'Zeqi'
 				□  - git config --global user.email 'miaomiaochaoshuai@gmail.com'  
 	• verification            - git config user.name
